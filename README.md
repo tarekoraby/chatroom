@@ -1,3 +1,3 @@
 ### Chatroom
 
-A chatroom built using Spring Boot, WebSocket and STOMP.
+A chatroom built using Spring Boot and WebSocket.
